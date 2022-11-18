@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himanshu7500
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack development 
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning MERN STACK. 
 - 💞️ I’m looking to collaborate on any good project.
 - 📫 How to reach me himanshusahu7500@gmail.com.
 <!---
